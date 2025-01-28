@@ -1,0 +1,172 @@
+[
+  {
+    "ref": "78f79e45-f235-4360-87ab-97886a9ce79d",
+    "keyword": "53297bc2f4dec5025053ce7fb10b811a",
+    "answer": "2",
+    "options": {},
+    "from": "5352011608",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d",
+    "keyword": "key_22ff7fc3-33bf-4152-8e9c-33c27968cd75",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "dee1055a077af8a9d2a7d1c9882e611f",
+    "from": "5352011608"
+  },
+  {
+    "ref": "ans_635c7048-4e17-4878-9993-f65c572a7369",
+    "keyword": "ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d",
+    "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5494685893168ea2a423ba74aee8b316",
+    "from": "5352011608"
+  },
+  {
+    "ref": "ans_635c7048-4e17-4878-9993-f65c572a7369",
+    "keyword": "ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d",
+    "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5494685893168ea2a423ba74aee8b316",
+    "from": "5352011608"
+  },
+  {
+    "ref": "891ff40a-4cb9-44a8-b993-93767049adca",
+    "keyword": "5494685893168ea2a423ba74aee8b316",
+    "answer": "2",
+    "options": {},
+    "from": "5352011608",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_a5ec3a18-88e3-468a-a52f-68d24718ceb8",
+    "keyword": "key_c0849386-1fe4-43d2-9cf9-8d5b4e99014e",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "a5c423bb88dc43b1b2bb34cbc3ffd7cd",
+    "from": "5352011608"
+  },
+  {
+    "ref": "ans_a8d19528-2840-41df-bee7-c69a436ebcc9",
+    "keyword": "ans_a5ec3a18-88e3-468a-a52f-68d24718ceb8",
+    "answer": "¿Cuál es el número del evento deseado:\n(Ej: 101, 102, etc.)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ab58cd738a791d4333cea33920354ce8",
+    "from": "5352011608"
+  },
+  {
+    "ref": "934eeb37-f455-4fda-9242-4b85a5e1d4f2",
+    "keyword": null,
+    "answer": "\n1     *Legado* \n*Fecha:* 01-12-2025 \n*Lugar:* Habana Libre\n\n2     *Noche de Salsa* \n*Fecha:* 05-12-2025 \n*Lugar:* Salón Rosado de La Tropical\n\n3     *Fiesta Electronica* \n*Fecha:* 10-12-2025 \n*Lugar:* Club 1830\n\n4     *Concierto de Jazz* \n*Fecha:* 15-12-2025 \n*Lugar:* Teatro Nacional\n\n5     *Paprika* \n*Fecha:* 30-01-2025 \n*Lugar:* La Tropical\n\n7     *Publicidad* \n*Fecha:* 10-02-2025 \n*Lugar:* Mi casa\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5352011608",
+    "refSerialize": "3c30bd732438a829a92fb96ebe7e9692"
+  },
+  {
+    "ref": "2015bec0-70b6-4123-90d3-88bbb0242eec",
+    "keyword": "ab58cd738a791d4333cea33920354ce8",
+    "answer": "5",
+    "options": {},
+    "from": "5352011608",
+    "refSerialize": "d2b414a4bc0b3490276097c7513b4c8c"
+  },
+  {
+    "ref": "ans_1ee922d4-e039-468a-85b5-1db373661d4c",
+    "keyword": "key_9578019a-43c7-48e2-8403-3ed699630bfd",
+    "answer": "Escriba seguidos su *Nombre Apellidos* y *número de Teléfono*.\nEn las siguientes líneas del mismo mensaje escriba los datos de sus acompañantes.\nLos datos pueden estar en la misma línea o separados por un salto de línea.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e6f5cf65317d77211af577b4e9200832",
+    "from": "5352011608"
+  },
+  {
+    "ref": "ans_027d9100-0d23-40a5-9933-5251e687e7f0",
+    "keyword": "ans_1ee922d4-e039-468a-85b5-1db373661d4c",
+    "answer": "*Ejemplo de mensaje* \nMagy Pérez Pérez 02092345677\nAlis Pérez López 02092345687\nSamuel Pérez López 02092345697",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "47aec338b28a049c158129f97b745add",
+    "from": "5352011608"
+  }
+]

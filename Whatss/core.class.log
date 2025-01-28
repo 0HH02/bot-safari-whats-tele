@@ -1,0 +1,107 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5352011608@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2391F7C093EF222486',
+    participant: undefined
+  },
+  messageTimestamp: 1737499411,
+  pushName: 'Aixa Cajigal',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5352011608'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d',
+  keyword: 'key_22ff7fc3-33bf-4152-8e9c-33c27968cd75',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dee1055a077af8a9d2a7d1c9882e611f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_635c7048-4e17-4878-9993-f65c572a7369',
+  keyword: 'ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d',
+  answer: '¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\n' +
+    'Solo escribe el número de la opción que desees:\n' +
+    '\n' +
+    '1 Consultar eventos 📆\n' +
+    '\n' +
+    '2 Reservar 🎟\n' +
+    '\n' +
+    '3 Hablar con un humano 🧑\n' +
+    '\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 1800000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5494685893168ea2a423ba74aee8b316'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5352011608@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5DC20189AE8ACB2134',
+    participant: undefined
+  },
+  messageTimestamp: 1737499538,
+  pushName: 'Aixa Cajigal',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5352011608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5352011608@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1C28BCB28378B357E5',
+    participant: undefined
+  },
+  messageTimestamp: 1737499553,
+  pushName: 'Aixa Cajigal',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '5352011608'
+}
