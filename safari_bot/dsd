@@ -1,0 +1,6 @@
+Un botón en el inicio que le permita cancelar o modificar reserva si reservó un evento que aún no se ha celebrado. Cuando toque le va a salir los datos de las reservas y dos botones debajo de cada uno: Modificar o Cancelar, si da en cancelar, salen 2 botones más para confirmar diciendo que este cambio es irreversible. Si da en modificar vuelve a hacer el flujo de la reserva con ese evento. 
+En el flujo de seleccionar evento si selecciona uno que ya está lleno se le sugerirá el evento próximo más cercano.
+
+Agregar en el flujo de reserva lo botones: voy al party o reservo para otros, si es para mi se toman los datos de la cuenta personal para que no tenga que volver a ingresarlos, si es para otros se le piden todos los datos.
+
+Agregar en el flujo de la reserva dos botones: Añadir código del promotor y Reserva libre. Se guarda en bd todos los datos anteriores y un nuevo dato que es el código del promotor en caso de que el usuario reserve libre se añade el -1.

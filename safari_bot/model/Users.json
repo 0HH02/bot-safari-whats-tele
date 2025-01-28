@@ -1,0 +1,18 @@
+{
+    "Users": {
+        "641567508": {
+            "CI": "02021979327",
+            "Nombre": "Carlos",
+            "Apellido_1": "Chang",
+            "Apellido_2": "Jard\u00ednez",
+            "Tel\u00e9fono": "54252449",
+            "ID_Evento": "4",
+            "Confirmado": false,
+            "reservationId": "19",
+            "chat_id": 641567508,
+            "FechaUltimoEvento": "2024-12-12",
+            "Amigos": [],
+            "LugarUltimoEvento": "Teatro Nacional"
+        }
+    }
+}

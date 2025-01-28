@@ -1,0 +1,1053 @@
+{
+  "Events": [
+    {
+      "name": "Legado",
+      "date": "01.12.2025",
+      "description": "Cervezas a 200cup\nCantante invitado: Yomil\nCañón de espuma\nDj hasta las 4 am",
+      "auxMessage": "",
+      "maxPlaces": "1000",
+      "place": "Habana Libre",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_11.jpg"
+      ],
+      "type": "Personal",
+      "minAge": 18,
+      "current": "2",
+      "id": "1",
+      "reservations": [
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "Teléfono": "54252449",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "1",
+          "chat_id": 641567508,
+          "partners": []
+        },
+        {
+          "CI": "03345678910",
+          "Nombre": "Ana",
+          "Apellido_1": "Pérez",
+          "Apellido_2": "López",
+          "Teléfono": "54252450",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "2",
+          "chat_id": 641567509,
+          "partners": []
+        },
+        {
+          "CI": "98876543211",
+          "Nombre": "Luis",
+          "Apellido_1": "Gómez",
+          "Apellido_2": "Martínez",
+          "Teléfono": "54252451",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "3",
+          "chat_id": 641567510,
+          "partners": []
+        },
+        {
+          "CI": "99223344556",
+          "Nombre": "María",
+          "Apellido_1": "Hernández",
+          "Apellido_2": "Suárez",
+          "Teléfono": "54252452",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "4",
+          "chat_id": 641567511,
+          "partners": []
+        },
+        {
+          "CI": "00554433211",
+          "Nombre": "Jorge",
+          "Apellido_1": "Fernández",
+          "Apellido_2": "Rivera",
+          "Teléfono": "54252453",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "5",
+          "chat_id": 641567512,
+          "partners": []
+        },
+        {
+          "CI": "02334455667",
+          "Nombre": "Claudia",
+          "Apellido_1": "Morales",
+          "Apellido_2": "Reyes",
+          "Teléfono": "54252454",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "6",
+          "chat_id": 641567513,
+          "partners": []
+        },
+        {
+          "CI": "04889900112",
+          "Nombre": "Roberto",
+          "Apellido_1": "Ortega",
+          "Apellido_2": "Castro",
+          "Teléfono": "54252455",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "7",
+          "chat_id": 641567514,
+          "partners": []
+        },
+        {
+          "CI": "88990011223",
+          "Nombre": "Laura",
+          "Apellido_1": "Jiménez",
+          "Apellido_2": "Rojas",
+          "Teléfono": "54252456",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "8",
+          "chat_id": 641567515,
+          "partners": []
+        },
+        {
+          "CI": "99001122334",
+          "Nombre": "Daniel",
+          "Apellido_1": "Ramírez",
+          "Apellido_2": "García",
+          "Teléfono": "54252457",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "9",
+          "chat_id": 641567516,
+          "partners": []
+        },
+        {
+          "CI": "00112233445",
+          "Nombre": "Sofía",
+          "Apellido_1": "López",
+          "Apellido_2": "Vázquez",
+          "Teléfono": "54252458",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "10",
+          "chat_id": 641567517,
+          "partners": []
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardinez",
+          "Teléfono": "50942618",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "11",
+          "chat_id": 641567508,
+          "partners": []
+        },
+        {
+          "CI": "01121968629",
+          "Nombre": "Samuel",
+          "Apellido_1": "Arencibia",
+          "Apellido_2": "Martínez",
+          "Teléfono": "5358056309",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 11,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "01121968630",
+              "Apellido_2": "Quijano",
+              "Apellido_1": "lazara",
+              "Nombre": "Aixa"
+            },
+            {
+              "CI": "01121968670",
+              "Apellido_2": "loco",
+              "Apellido_1": "Perez",
+              "Nombre": "Ulises"
+            }
+          ]
+        },
+        {
+          "CI": "01121968629",
+          "Nombre": "Samuel",
+          "Apellido_1": "Arencibia",
+          "Apellido_2": "Martínez",
+          "Teléfono": "5358056309",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 12,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "01121968729",
+              "Apellido_2": "Martínez",
+              "Apellido_1": "Arencibia",
+              "Nombre": "Sofía"
+            }
+          ]
+        },
+        {
+          "CI": "04101476007",
+          "Nombre": "Ignacio",
+          "Apellido_1": "García",
+          "Apellido_2": "Marín",
+          "Teléfono": "5356511592",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 13,
+          "chat_id": "",
+          "table": true,
+          "partners": []
+        },
+        {
+          "CI": "01121968629",
+          "Nombre": "Samuel",
+          "Apellido_1": "Arencibia",
+          "Apellido_2": "Martínez",
+          "Teléfono": "5358056309",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 14,
+          "chat_id": "",
+          "table": true,
+          "partners": []
+        },
+        {
+          "CI": "01121968629",
+          "Nombre": "Samuel",
+          "Apellido_1": "Arencibia",
+          "Apellido_2": "Martínez",
+          "Teléfono": "5358056309",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 15,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "01121968529",
+              "Apellido_2": "Martínez",
+              "Apellido_1": "Arencibia",
+              "Nombre": "Samuel"
+            }
+          ]
+        },
+        {
+          "CI": "04101476007",
+          "Nombre": "Ignacio",
+          "Apellido_1": "García",
+          "Apellido_2": "Marín",
+          "Teléfono": "5356511592",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 16,
+          "chat_id": "",
+          "table": true,
+          "partners": []
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 17,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02021979327",
+              "Nombre": "Marco",
+              "Apellido_1": "Alejandro",
+              "Apellido_2": "Martínez"
+            }
+          ]
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 18,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02021979327",
+              "Nombre": "Marco",
+              "Apellido_1": "Alejandro",
+              "Apellido_2": "Martínez"
+            }
+          ]
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 19,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02021979327",
+              "Nombre": "Marco",
+              "Apellido_1": "Alejandro",
+              "Apellido_2": "Martínez"
+            }
+          ]
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "ID_Evento": "1",
+          "confirmado": false,
+          "reservationId": 20,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02021979327",
+              "Nombre": "Marco",
+              "Apellido_1": "Alejandro",
+              "Apellido_2": "Martínez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noche de Salsa",
+      "date": "05.12.2025",
+      "description": "Disfruta de una noche de salsa con la orquesta invitada Los Van Van.\nPromoción: Mojitos a 150cup.\nDj desde las 8 pm hasta el cierre.",
+      "auxMessage": "",
+      "maxPlaces": "800",
+      "place": "Salón Rosado de La Tropical",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_11.jpg"
+      ],
+      "type": "Personal",
+      "minAge": 18,
+      "current": 0,
+      "id": "2",
+      "reservations": [
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "Teléfono": "54252449",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "1",
+          "chat_id": 641567508,
+          "partners": []
+        },
+        {
+          "CI": "03345678910",
+          "Nombre": "Ana",
+          "Apellido_1": "Pérez",
+          "Apellido_2": "López",
+          "Teléfono": "54252450",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "2",
+          "chat_id": 641567509,
+          "partners": []
+        },
+        {
+          "CI": "98876543211",
+          "Nombre": "Luis",
+          "Apellido_1": "Gómez",
+          "Apellido_2": "Martínez",
+          "Teléfono": "54252451",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "3",
+          "chat_id": 641567510,
+          "partners": []
+        },
+        {
+          "CI": "99223344556",
+          "Nombre": "María",
+          "Apellido_1": "Hernández",
+          "Apellido_2": "Suárez",
+          "Teléfono": "54252452",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "4",
+          "chat_id": 641567511,
+          "partners": []
+        },
+        {
+          "CI": "00554433211",
+          "Nombre": "Jorge",
+          "Apellido_1": "Fernández",
+          "Apellido_2": "Rivera",
+          "Teléfono": "54252453",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "5",
+          "chat_id": 641567512,
+          "partners": []
+        },
+        {
+          "CI": "02334455667",
+          "Nombre": "Claudia",
+          "Apellido_1": "Morales",
+          "Apellido_2": "Reyes",
+          "Teléfono": "54252454",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "6",
+          "chat_id": 641567513,
+          "partners": []
+        },
+        {
+          "CI": "04889900112",
+          "Nombre": "Roberto",
+          "Apellido_1": "Ortega",
+          "Apellido_2": "Castro",
+          "Teléfono": "54252455",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "7",
+          "chat_id": 641567514,
+          "partners": []
+        },
+        {
+          "CI": "04101476007",
+          "Nombre": "Ignacio",
+          "Apellido_1": "García",
+          "Apellido_2": "Marín",
+          "Teléfono": "5356511592",
+          "ID_Evento": "2",
+          "confirmado": false,
+          "reservationId": 7,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "02121576008",
+              "Apellido_2": "González",
+              "Apellido_1": "Cabrera",
+              "Nombre": "Héctor Carlos"
+            }
+          ]
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos",
+          "Apellido_1": "Mauio",
+          "Apellido_2": "Chang",
+          "Teléfono": "5356706099",
+          "ID_Evento": "2",
+          "confirmado": false,
+          "reservationId": 8,
+          "chat_id": "",
+          "table": true,
+          "partners": []
+        },
+        {
+          "CI": "05053125900",
+          "Nombre": "Aixa Lazara",
+          "Apellido_1": "Quijano",
+          "Apellido_2": "Rodríguez",
+          "Teléfono": "5352541779",
+          "ID_Evento": "2",
+          "confirmado": false,
+          "reservationId": 9,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "75071301836",
+              "Apellido_2": "Benítez",
+              "Apellido_1": "Rodríguez",
+              "Nombre": "Selena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fiesta Electronica",
+      "date": "10.12.2025",
+      "description": "Lineup de DJs internacionales: DJ Tiesto y DJ Sara.\nBarra libre hasta las 2 am.\nEspectáculo de luces láser.",
+      "auxMessage": "",
+      "maxPlaces": "1200",
+      "place": "Club 1830",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_11.jpg"
+      ],
+      "type": "Personal",
+      "minAge": 18,
+      "current": 0,
+      "id": "3",
+      "reservations": [
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "Teléfono": "54252449",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "1",
+          "chat_id": 641567508,
+          "partners": []
+        },
+        {
+          "CI": "03345678910",
+          "Nombre": "Ana",
+          "Apellido_1": "Pérez",
+          "Apellido_2": "López",
+          "Teléfono": "54252450",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "2",
+          "chat_id": 641567509,
+          "partners": []
+        },
+        {
+          "CI": "98876543211",
+          "Nombre": "Luis",
+          "Apellido_1": "Gómez",
+          "Apellido_2": "Martínez",
+          "Teléfono": "54252451",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "3",
+          "chat_id": 641567510,
+          "partners": []
+        },
+        {
+          "CI": "99223344556",
+          "Nombre": "María",
+          "Apellido_1": "Hernández",
+          "Apellido_2": "Suárez",
+          "Teléfono": "54252452",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "4",
+          "chat_id": 641567511,
+          "partners": []
+        },
+        {
+          "CI": "00554433211",
+          "Nombre": "Jorge",
+          "Apellido_1": "Fernández",
+          "Apellido_2": "Rivera",
+          "Teléfono": "54252453",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "5",
+          "chat_id": 641567512,
+          "partners": []
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos",
+          "Apellido_1": "Mario",
+          "Apellido_2": "Chang",
+          "Teléfono": "5356706099",
+          "ID_Evento": "3",
+          "confirmado": false,
+          "reservationId": 5,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos de la caridad",
+          "Apellido_1": "Gonzales",
+          "Apellido_2": "Quezada",
+          "Teléfono": "5356706099",
+          "ID_Evento": "3",
+          "confirmado": false,
+          "reservationId": 6,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos de la caridad",
+          "Apellido_1": "Gonzales",
+          "Apellido_2": "Quesada",
+          "Teléfono": "5356706099",
+          "ID_Evento": "3",
+          "confirmado": false,
+          "reservationId": 7,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        }
+      ]
+    },
+    {
+      "name": "Concierto de Jazz",
+      "date": "15.12.2025",
+      "description": "Presentación especial de Roberto Fonseca.\nCena incluida con reserva previa.\nEspacios limitados para disfrutar de una experiencia íntima.",
+      "auxMessage": "",
+      "maxPlaces": "500",
+      "place": "Teatro Nacional",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_11.jpg"
+      ],
+      "type": "Cultural",
+      "minAge": 18,
+      "current": "1",
+      "id": "4",
+      "reservations": [
+        {
+          "CI": "88990011223",
+          "Nombre": "Laura",
+          "Apellido_1": "Jiménez",
+          "Apellido_2": "Rojas",
+          "Teléfono": "54252456",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "8",
+          "chat_id": 641567515,
+          "partners": []
+        },
+        {
+          "CI": "99001122334",
+          "Nombre": "Daniel",
+          "Apellido_1": "Ramírez",
+          "Apellido_2": "García",
+          "Teléfono": "54252457",
+          "ID_Evento": "1",
+          "Confirmado": false,
+          "reservationId": "9",
+          "chat_id": 641567516,
+          "partners": []
+        },
+        {
+          "CI": "00112233445",
+          "Nombre": "Sofía",
+          "Apellido_1": "López",
+          "Apellido_2": "Vázquez",
+          "Teléfono": "54252458",
+          "ID_Evento": "1",
+          "Confirmado": true,
+          "reservationId": "10",
+          "chat_id": 641567517,
+          "partners": []
+        },
+        {
+          "CI": "99031279327",
+          "Nombre": "Alejandro",
+          "Apellido_1": "Coin",
+          "Apellido_2": "Toprá",
+          "Teléfono": "54252449",
+          "ID_Evento": "4",
+          "Confirmado": false,
+          "reservationId": "11",
+          "chat_id": 641567508,
+          "partners": []
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Tomas",
+          "Teléfono": "5356706099",
+          "ID_Evento": "4",
+          "confirmado": false,
+          "reservationId": 4,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        }
+      ]
+    },
+    {
+      "name": "Paprika",
+      "date": "30.01.2025",
+      "description": "Globos, Cerveza barata, integrales y ecuaciones diferenciales",
+      "auxMessage": "",
+      "maxPlaces": "3000",
+      "place": "La Tropical",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_0.jpg"
+      ],
+      "type": "personal",
+      "minAge": 18,
+      "current": 0,
+      "id": "5",
+      "reservations": [
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "Teléfono": "5356706099",
+          "ID_Evento": "5",
+          "confirmado": false,
+          "reservationId": 0,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "Teléfono": "5356706099",
+          "ID_Evento": "5",
+          "confirmado": false,
+          "reservationId": 1,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "04052168177",
+          "Nombre": "Magy",
+          "Apellido_1": "Riera",
+          "Apellido_2": "Hidalgo",
+          "Teléfono": "5358844375",
+          "ID_Evento": "5",
+          "confirmado": false,
+          "reservationId": 2,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "02120455999",
+              "Apellido_2": "Pérez",
+              "Apellido_1": "Pérez",
+              "Nombre": "Jacinta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prubea",
+      "date": "20.01.2025",
+      "description": "fasdfasd",
+      "auxMessage": "",
+      "maxPlaces": "2000",
+      "place": "asdfasd",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_0.jpg"
+      ],
+      "type": "personal",
+      "minAge": 18,
+      "current": 0,
+      "id": "6",
+      "reservations": [
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jasda",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 0,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02029191919",
+          "Nombre": "Carlos Cmario",
+          "Apellido_1": "sfdasd",
+          "Apellido_2": "asdfa",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 1,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Marco",
+          "Apellido_1": "adfs",
+          "Apellido_2": "asdfa",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 2,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos",
+          "Apellido_1": "dasdf",
+          "Apellido_2": "asdfasd",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 3,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos",
+          "Apellido_1": "dasdf",
+          "Apellido_2": "asdfasd",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 4,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Marco"
+            },
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Ise"
+            }
+          ]
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos",
+          "Apellido_1": "dasdf",
+          "Apellido_2": "asdfasd",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 5,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Marco"
+            },
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Ise"
+            }
+          ]
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos",
+          "Apellido_1": "dasdf",
+          "Apellido_2": "asdfasd",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 6,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Marco"
+            },
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Ise"
+            }
+          ]
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Carlos",
+          "Apellido_1": "dasdf",
+          "Apellido_2": "asdfasd",
+          "Teléfono": "5356706099",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 7,
+          "chat_id": "",
+          "table": false,
+          "partners": [
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Marco"
+            },
+            {
+              "CI": "02020202020",
+              "Apellido_2": "asdfasd",
+              "Apellido_1": "dasdf",
+              "Nombre": "Ise"
+            }
+          ]
+        },
+        {
+          "CI": "04052168177",
+          "Nombre": "Magy",
+          "Apellido_1": "Riera",
+          "Apellido_2": "Hidalgo",
+          "Teléfono": "5358844375",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 8,
+          "chat_id": "",
+          "table": true,
+          "partners": []
+        },
+        {
+          "CI": "05053168496",
+          "Nombre": "Aixa",
+          "Apellido_1": "Quijano",
+          "Apellido_2": "Rodríguez",
+          "Teléfono": "5359730215",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 9,
+          "chat_id": "",
+          "table": true,
+          "partners": [
+            {
+              "CI": "01121968486",
+              "Apellido_2": "Martínez",
+              "Apellido_1": "Arencibia",
+              "Nombre": "Samuel"
+            },
+            {
+              "CI": "04053168496",
+              "Apellido_2": "Rodríguez",
+              "Apellido_1": "alvarez",
+              "Nombre": "Maxiel"
+            },
+            {
+              "CI": "00101567486",
+              "Apellido_2": "alvarez",
+              "Apellido_1": "perez",
+              "Nombre": "Ulises"
+            }
+          ]
+        },
+        {
+          "CI": "02021978654",
+          "Nombre": "Carlos Antonio",
+          "Apellido_1": "Bresó",
+          "Apellido_2": "Soto",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 10,
+          "chat_id": "",
+          "table": false,
+          "partners": [],
+          "promotorCode": "1234"
+        },
+        {
+          "CI": "02020202020",
+          "Nombre": "Ernesto",
+          "Apellido_1": "jsjs",
+          "Apellido_2": "sksjsj",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 11,
+          "chat_id": "",
+          "table": false,
+          "partners": [],
+          "promotorCode": ""
+        },
+        {
+          "CI": "02021979746",
+          "Nombre": "Jsidj",
+          "Apellido_1": "idjdjd",
+          "Apellido_2": "idjdjd",
+          "ID_Evento": "6",
+          "confirmado": false,
+          "reservationId": 12,
+          "chat_id": "",
+          "table": false,
+          "partners": [],
+          "promotorCode": ""
+        }
+      ]
+    },
+    {
+      "name": "Publicidad",
+      "date": "10.02.2025",
+      "description": "Party Loco",
+      "auxMessage": "",
+      "maxPlaces": "20002",
+      "place": "Mi casa",
+      "photo": "images/standar_invitation.jpg",
+      "flayerPhoto": [
+        "images/file_2.jpg"
+      ],
+      "advertisingPhoto": "images/Publicidad_file_3.jpg",
+      "advertisingDescription": "No te pierdas esta habitación",
+      "type": "personal",
+      "minAge": 18,
+      "current": 0,
+      "id": "7",
+      "reservations": [
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "ID_Evento": "7",
+          "confirmado": false,
+          "reservationId": 0,
+          "chat_id": "",
+          "table": false,
+          "partners": []
+        },
+        {
+          "CI": "02021978654",
+          "Nombre": "Ernesto",
+          "Apellido_1": "Rosell",
+          "Apellido_2": "Zurita",
+          "ID_Evento": "7",
+          "confirmado": false,
+          "reservationId": 1,
+          "chat_id": "",
+          "table": false,
+          "partners": [],
+          "promotorCode": "1234"
+        }
+      ]
+    }
+  ]
+}
