@@ -6,6 +6,6 @@ const path = require("path");
 app.use("/public", express.static(path.join(__dirname, "../safari-bot/")));
 
 // Inicia el servidor
-app.listen(3050, () => {
+app.listen(3051, () => {
   console.log("Servidor corriendo en http://localhost:3050");
 });
