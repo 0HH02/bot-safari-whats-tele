@@ -35,7 +35,7 @@ module.exports = addKeyword(EVENTS.WELCOME)
           return myGotoFlow(ctx, endFlow, gotoFlow, require("./flowEventos"));
         case "3":
           await flowDynamic(
-            "Escriba a nuestro comercial y le atenderá con gusto:\n☎ 55395060"
+            "Escriba a nuestro comercial y le atenderá con gusto:\n☎ 56511592"
           );
           return;
         default:

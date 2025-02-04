@@ -44,9 +44,8 @@ const reservar = addKeyword(EVENTS.ACTION)
 
 const nameFlow = addKeyword(EVENTS.ACTION)
   .addAnswer(
-    "Escriba seguidos su *Nombre Apellidos* y *número de Teléfono*.\n" +
-      "En las siguientes líneas del mismo mensaje escriba los datos de sus acompañantes.\n" +
-      "Los datos pueden estar en la misma línea o separados por un salto de línea."
+    "Escriba en un único mensaje su *Nombre, Apellidos* y *Número de carnet*.\n" +
+      "Agregue en el mismo mensaje los datos de sus acompañantes. Una persona en cada línea\n"
   )
   .addAnswer(
     "*Ejemplo de mensaje* \n" +
