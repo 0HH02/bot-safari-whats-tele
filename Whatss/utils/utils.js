@@ -7,7 +7,7 @@ const { stat } = require("node:fs");
 const { config } = require("../config/config");
 
 const pathUsers = "./model/Users.json";
-const pathEvents = "../safari-bot/model/Events.json";
+const pathEvents = "../../safari-bot/model/Events.json";
 
 async function saveReservation(state) {
   let data = await readFile(pathEvents, "UTF-8");
