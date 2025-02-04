@@ -238,7 +238,7 @@ const confirmarFlow = addKeyword(EVENTS.ACTION)
         console.log(state.getMyState());
         await flowDynamic("Listo! ✅");
         await flowDynamic("Enseguida le mandamos su invitación");
-        saveReservation(state.getMyState());
+        saveReservation(state);
         return myGotoFlow(ctx, endFlow, gotoFlow, sendInvitationFlow);
       } else if (confirm === "no") {
         return myGotoFlow(ctx, endFlow, gotoFlow, nameFlow);

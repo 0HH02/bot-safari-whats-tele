@@ -10,24 +10,25 @@ const pathUsers = "./model/Users.json";
 const pathEvents = "../safari-bot/model/Events.json";
 
 async function saveReservation(state) {
+  let myState = state.getMyState();
   let data = await readFile(pathEvents, "UTF-8");
   let parseData = JSON.parse(data);
-  let event = parseData.Events.find((e) => e.id === state.idEvento);
+  let event = parseData.Events.find((e) => e.id === myState.idEvento);
 
   if (event) {
     const reservation = {
-      CI: state.CI,
-      Nombre: state.Nombre,
-      Apellido_1: state.Apellido_1,
-      Apellido_2: state.Apellido_2,
-      Teléfono: state.Teléfono,
-      ID_Evento: state.idEvento,
+      CI: myState.CI,
+      Nombre: myState.Nombre,
+      Apellido_1: myState.Apellido_1,
+      Apellido_2: myState.Apellido_2,
+      Teléfono: myState.Teléfono,
+      ID_Evento: myState.idEvento,
       confirmado: false,
-      reservationId: state.reservationId,
+      reservationId: myState.reservationId,
       chat_id: "",
-      table: state.table,
-      partners: state.partners,
-      promotorCode: state.promotorCode ? state.promotorCode : "",
+      table: myState.table,
+      partners: myState.partners,
+      promotorCode: myState.promotorCode ? myState.promotorCode : "",
     };
 
     if (!event.reservations) {

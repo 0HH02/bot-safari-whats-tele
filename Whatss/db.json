@@ -1,15 +1,15 @@
 [
   {
-    "ref": "78f79e45-f235-4360-87ab-97886a9ce79d",
-    "keyword": "53297bc2f4dec5025053ce7fb10b811a",
-    "answer": "2",
+    "ref": "eea64d75-4170-440c-badd-3fc53a994713",
+    "keyword": "611b2bffc5c8bf7a02f45d2060b32e20",
+    "answer": "Hi",
     "options": {},
-    "from": "5352011608",
-    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+    "from": "5350942618",
+    "refSerialize": "c5d6aa365d51e0d9c6f2eac3de980df6"
   },
   {
-    "ref": "ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d",
-    "keyword": "key_22ff7fc3-33bf-4152-8e9c-33c27968cd75",
+    "ref": "ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a",
+    "keyword": "key_537a061d-eb8f-470c-bcb0-a56f86eb041e",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -23,12 +23,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "dee1055a077af8a9d2a7d1c9882e611f",
-    "from": "5352011608"
+    "refSerialize": "2c8df4a56c0051420ad9f4ae3b3a56c5",
+    "from": "5350942618"
   },
   {
-    "ref": "ans_635c7048-4e17-4878-9993-f65c572a7369",
-    "keyword": "ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d",
+    "ref": "ans_fedb05cd-0751-432c-b76c-75a2df42247f",
+    "keyword": "ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a",
     "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
     "options": {
       "media": null,
@@ -42,12 +42,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "5494685893168ea2a423ba74aee8b316",
-    "from": "5352011608"
+    "refSerialize": "452a79399f89a396cd4e8abdfdd8b0e2",
+    "from": "5350942618"
   },
   {
-    "ref": "ans_635c7048-4e17-4878-9993-f65c572a7369",
-    "keyword": "ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d",
+    "ref": "ans_fedb05cd-0751-432c-b76c-75a2df42247f",
+    "keyword": "ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a",
     "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
     "options": {
       "media": null,
@@ -61,20 +61,20 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "5494685893168ea2a423ba74aee8b316",
-    "from": "5352011608"
+    "refSerialize": "452a79399f89a396cd4e8abdfdd8b0e2",
+    "from": "5350942618"
   },
   {
-    "ref": "891ff40a-4cb9-44a8-b993-93767049adca",
-    "keyword": "5494685893168ea2a423ba74aee8b316",
+    "ref": "9b46b8aa-1b5e-4fee-babb-f4ff4e7e3902",
+    "keyword": "452a79399f89a396cd4e8abdfdd8b0e2",
     "answer": "2",
     "options": {},
-    "from": "5352011608",
+    "from": "5350942618",
     "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
   },
   {
-    "ref": "ans_a5ec3a18-88e3-468a-a52f-68d24718ceb8",
-    "keyword": "key_c0849386-1fe4-43d2-9cf9-8d5b4e99014e",
+    "ref": "ans_5de12f0b-0b7f-4384-85fc-afa6dc011ae7",
+    "keyword": "key_f909fcd6-ced2-4442-a35c-880f22f054d2",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -88,12 +88,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "a5c423bb88dc43b1b2bb34cbc3ffd7cd",
-    "from": "5352011608"
+    "refSerialize": "c7bf209f89a8980a83a6373227249365",
+    "from": "5350942618"
   },
   {
-    "ref": "ans_a8d19528-2840-41df-bee7-c69a436ebcc9",
-    "keyword": "ans_a5ec3a18-88e3-468a-a52f-68d24718ceb8",
+    "ref": "ans_57442fa5-67b9-4385-9b44-ba60f68bd86e",
+    "keyword": "ans_5de12f0b-0b7f-4384-85fc-afa6dc011ae7",
     "answer": "¿Cuál es el número del evento deseado:\n(Ej: 101, 102, etc.)",
     "options": {
       "media": null,
@@ -107,34 +107,34 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "ab58cd738a791d4333cea33920354ce8",
-    "from": "5352011608"
+    "refSerialize": "a4e05703c683147d332d0b17bdb7e670",
+    "from": "5350942618"
   },
   {
-    "ref": "934eeb37-f455-4fda-9242-4b85a5e1d4f2",
+    "ref": "193a80fc-1e13-4cb2-b14e-9a1b61651580",
     "keyword": null,
-    "answer": "\n1     *Legado* \n*Fecha:* 01-12-2025 \n*Lugar:* Habana Libre\n\n2     *Noche de Salsa* \n*Fecha:* 05-12-2025 \n*Lugar:* Salón Rosado de La Tropical\n\n3     *Fiesta Electronica* \n*Fecha:* 10-12-2025 \n*Lugar:* Club 1830\n\n4     *Concierto de Jazz* \n*Fecha:* 15-12-2025 \n*Lugar:* Teatro Nacional\n\n5     *Paprika* \n*Fecha:* 30-01-2025 \n*Lugar:* La Tropical\n\n7     *Publicidad* \n*Fecha:* 10-02-2025 \n*Lugar:* Mi casa\n",
+    "answer": "\n1     *Legado* \n*Fecha:* 01-12-2025 \n*Lugar:* Habana Libre\n\n2     *Noche de Salsa* \n*Fecha:* 05-12-2025 \n*Lugar:* Salón Rosado de La Tropical\n\n3     *Fiesta Electronica* \n*Fecha:* 10-12-2025 \n*Lugar:* Club 1830\n\n4     *Concierto de Jazz* \n*Fecha:* 15-12-2025 \n*Lugar:* Teatro Nacional\n\n7     *Publicidad* \n*Fecha:* 10-02-2025 \n*Lugar:* Mi casa\n",
     "options": {
       "media": null,
       "buttons": [],
       "capture": false,
       "delay": 0
     },
-    "from": "5352011608",
-    "refSerialize": "3c30bd732438a829a92fb96ebe7e9692"
+    "from": "5350942618",
+    "refSerialize": "000a88ffd0fe25695dd69cd762e759e0"
   },
   {
-    "ref": "2015bec0-70b6-4123-90d3-88bbb0242eec",
-    "keyword": "ab58cd738a791d4333cea33920354ce8",
-    "answer": "5",
+    "ref": "783db870-091f-40b7-8af4-2a5f7cc93a5b",
+    "keyword": "a4e05703c683147d332d0b17bdb7e670",
+    "answer": "7",
     "options": {},
-    "from": "5352011608",
-    "refSerialize": "d2b414a4bc0b3490276097c7513b4c8c"
+    "from": "5350942618",
+    "refSerialize": "fd578dcac4948926a5e7e63bfd1b1267"
   },
   {
-    "ref": "ans_1ee922d4-e039-468a-85b5-1db373661d4c",
-    "keyword": "key_9578019a-43c7-48e2-8403-3ed699630bfd",
-    "answer": "Escriba seguidos su *Nombre Apellidos* y *número de Teléfono*.\nEn las siguientes líneas del mismo mensaje escriba los datos de sus acompañantes.\nLos datos pueden estar en la misma línea o separados por un salto de línea.",
+    "ref": "ans_863b7b28-7ab2-4d3e-86b9-f8751d7bbe5d",
+    "keyword": "key_983d3c2c-ed81-4e9a-bc19-b7453f40e2d9",
+    "answer": "Escriba en un único mensaje su *Nombre, Apellidos* y *Número de carnet*.\nAgregue en el mismo mensaje los datos de sus acompañantes. Una persona en cada línea\n",
     "options": {
       "media": null,
       "buttons": [],
@@ -147,12 +147,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "e6f5cf65317d77211af577b4e9200832",
-    "from": "5352011608"
+    "refSerialize": "bfae454e7ed587be3548b2fc718a2fcb",
+    "from": "5350942618"
   },
   {
-    "ref": "ans_027d9100-0d23-40a5-9933-5251e687e7f0",
-    "keyword": "ans_1ee922d4-e039-468a-85b5-1db373661d4c",
+    "ref": "ans_9a838501-c514-4d89-86b7-29ddddd98a0c",
+    "keyword": "ans_863b7b28-7ab2-4d3e-86b9-f8751d7bbe5d",
     "answer": "*Ejemplo de mensaje* \nMagy Pérez Pérez 02092345677\nAlis Pérez López 02092345687\nSamuel Pérez López 02092345697",
     "options": {
       "media": null,
@@ -166,7 +166,204 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "47aec338b28a049c158129f97b745add",
-    "from": "5352011608"
+    "refSerialize": "4f1f39e334b8f430202e84fbf0da3bb5",
+    "from": "5350942618"
+  },
+  {
+    "ref": "d2624c1e-9bb2-4686-9391-6afc5fddc75b",
+    "keyword": "4f1f39e334b8f430202e84fbf0da3bb5",
+    "answer": "Carlos Mario Chang Jardínez 02021979327",
+    "options": {},
+    "from": "5350942618",
+    "refSerialize": "4de4460091823347abec9827a847b111"
+  },
+  {
+    "ref": "ans_6c061a1c-4503-4fda-916f-6e3268e3a3f6",
+    "keyword": "key_fc2424da-a882-4aff-968d-cab6b9bd744a",
+    "answer": "¿Desea una mesa? Si / No",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "e31f9bc5000205ca84ef0f0c1e33124a",
+    "from": "5350942618"
+  },
+  {
+    "ref": "116ce620-951f-442b-b108-96596fe6081a",
+    "keyword": "e31f9bc5000205ca84ef0f0c1e33124a",
+    "answer": "No",
+    "options": {},
+    "from": "5350942618",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_2857083a-77b6-4ec6-9f8e-e1e5260a0d1f",
+    "keyword": "key_3f064699-507c-43fc-9150-e065bc0b6979",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ef29bb2781e5bfe032721cdd138ca828",
+    "from": "5350942618"
+  },
+  {
+    "ref": "77fa29e6-2769-4053-a3a8-7274204196ea",
+    "keyword": null,
+    "answer": "No te pierdas esta habitación",
+    "options": {
+      "media": "http://localhost:3050/public/images/Publicidad_file_3.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "5c04ae95ac11e6b2d2c0a94c083be5c5"
+  },
+  {
+    "ref": "ans_a9f5f3c1-e913-4411-a15a-88f00c2dab55",
+    "keyword": "key_ceff6f9a-c766-4dfe-b813-90e69eacbd26",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9a058bf558af101eca48255e5761a0e3",
+    "from": "5350942618"
+  },
+  {
+    "ref": "ans_7a29b333-ca04-4e78-829d-bbb21c16e169",
+    "keyword": "ans_a9f5f3c1-e913-4411-a15a-88f00c2dab55",
+    "answer": "Estos son los datos de su reserva:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "779d253d1577750fe522027a7ee402ef",
+    "from": "5350942618"
+  },
+  {
+    "ref": "eaf89887-50e9-4e32-a059-9a443c89b738",
+    "keyword": null,
+    "answer": "*Verifique sus datos por favor*\n\n*Evento:* Publicidad\n*Fecha:* 10.02.2025\n*Ubicación:* Mi casa\n*Mesa:* No\n\n*A nombre de: (Primera persona)*\nCarlos Mario Chang Jardínez 02021979327\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "c42297f3bd8de125835d3ab39c567451"
+  },
+  {
+    "ref": "f835d71e-86f1-4535-90b0-3ae37ee9a330",
+    "keyword": null,
+    "answer": "¿Desea confirmar su reserva? Si / No",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "dfafaaa55749c56d9341d850de670135"
+  },
+  {
+    "ref": "ec171942-7e4f-4a98-b0af-1fddf48d0ff2",
+    "keyword": "779d253d1577750fe522027a7ee402ef",
+    "answer": "Si",
+    "options": {},
+    "from": "5350942618",
+    "refSerialize": "611b2bffc5c8bf7a02f45d2060b32e20"
+  },
+  {
+    "ref": "496785c0-ab7c-40aa-a204-2c48fd005f44",
+    "keyword": null,
+    "answer": "Listo! ✅",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "35c35e8c53af562f69eeba32da562a1f"
+  },
+  {
+    "ref": "8a2047d6-be5b-4895-809b-84998f56536f",
+    "keyword": null,
+    "answer": "Enseguida le mandamos su invitación",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "64f6afffa17e515940c7043b9bbd3723"
+  },
+  {
+    "ref": "ans_606dac81-3c22-491c-8362-4f69284f9680",
+    "keyword": "key_4f4de645-89e5-4208-956b-dd51a2f80b44",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5af61eeb3d7cdbdd2cc2272ed88d88d7",
+    "from": "5350942618"
+  },
+  {
+    "ref": "b5523944-f97b-439e-993b-1dbf16454815",
+    "keyword": null,
+    "answer": "Su reserva ha sido registrada con éxito.\nNúmero de reserva: 53\n\nConserve este mensaje para mostrarlo a la entrada\nAnte cualquier necesidad, contacte a nuestro comercial:\n☎ 55395060\n\n✨ ¡Comparte tu Boleto Digital y etiquétanos en Instagram! @safari.havana",
+    "options": {
+      "media": "http://localhost:3050/public/images/invitation_7.png",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "beffef5b2cec659788793082ac993a58"
   }
 ]

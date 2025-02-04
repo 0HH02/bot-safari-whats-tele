@@ -1,27 +1,27 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '5352011608@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3A2391F7C093EF222486',
+    id: 'F53782DAC05ADF2052114AE580797A8F',
     participant: undefined
   },
-  messageTimestamp: 1737499411,
-  pushName: 'Aixa Cajigal',
+  messageTimestamp: 1738698749,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
-    conversation: '2',
+    conversation: 'Hi',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '2',
-  from: '5352011608'
+  body: 'Hi',
+  from: '5350942618'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d',
-  keyword: 'key_22ff7fc3-33bf-4152-8e9c-33c27968cd75',
+  ref: 'ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a',
+  keyword: 'key_537a061d-eb8f-470c-bcb0-a56f86eb041e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -35,11 +35,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'dee1055a077af8a9d2a7d1c9882e611f'
+  refSerialize: '2c8df4a56c0051420ad9f4ae3b3a56c5'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_635c7048-4e17-4878-9993-f65c572a7369',
-  keyword: 'ans_e4033eec-8350-4d1b-a6db-bbbb8aaeb46d',
+  ref: 'ans_fedb05cd-0751-432c-b76c-75a2df42247f',
+  keyword: 'ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a',
   answer: '¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\n' +
     'Solo escribe el número de la opción que desees:\n' +
     '\n' +
@@ -61,20 +61,20 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '5494685893168ea2a423ba74aee8b316'
+  refSerialize: '452a79399f89a396cd4e8abdfdd8b0e2'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5352011608@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3A5DC20189AE8ACB2134',
+    id: '3AD2E2CBEFFAB94E29F1D51629DE07DA',
     participant: undefined
   },
-  messageTimestamp: 1737499538,
-  pushName: 'Aixa Cajigal',
+  messageTimestamp: 1738698750,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    conversation: '2',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
@@ -82,26 +82,89 @@
     }
   },
   body: '2',
-  from: '5352011608'
+  from: '5350942618'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5352011608@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3A1C28BCB28378B357E5',
+    id: 'AECB9DAFDEF2B2E14E852AD53C42B253',
     participant: undefined
   },
-  messageTimestamp: 1737499553,
-  pushName: 'Aixa Cajigal',
+  messageTimestamp: 1738698752,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
-    conversation: '5',
+    conversation: '7',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '5',
-  from: '5352011608'
+  body: '7',
+  from: '5350942618'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5350942618@s.whatsapp.net',
+    fromMe: false,
+    id: 'A175A99FF8FCC3DE7F391B1B3B6932FE',
+    participant: undefined
+  },
+  messageTimestamp: 1738698759,
+  pushName: 'HH',
+  broadcast: false,
+  message: Message {
+    conversation: 'Carlos Mario Chang Jardínez 02021979327',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Carlos Mario Chang Jardínez 02021979327',
+  from: '5350942618'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5350942618@s.whatsapp.net',
+    fromMe: false,
+    id: 'C46D2C59383F13F10B0C12ED709183D9',
+    participant: undefined
+  },
+  messageTimestamp: 1738698760,
+  pushName: 'HH',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5350942618'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5350942618@s.whatsapp.net',
+    fromMe: false,
+    id: '6FE2AD0CA66478210AB394C9B6D98908',
+    participant: undefined
+  },
+  messageTimestamp: 1738698763,
+  pushName: 'HH',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '5350942618'
 }
