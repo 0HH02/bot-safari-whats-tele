@@ -257,16 +257,18 @@ const sendInvitationFlow = addKeyword(EVENTS.ACTION).addAction(
         state.get("Nombre")
       );
       await flowDynamic(
-        `Su reserva ha sido registrada con éxito.\n` +
-          `Número de reserva: ${
+        `✅ Su reservación ha sido registrada con éxito\n\n` +
+          `🎟️ *Número:* ${
             (await getEvent(data.idEvento)).reservations.length +
             50 -
-            state.get("partners").length
+            state.get("partners").length +
+            index
           }\n\n` +
-          `Conserve este mensaje para mostrarlo a la entrada\n` +
-          `Ante cualquier necesidad, contacte a nuestro comercial:\n` +
-          `☎ 55395060\n\n` +
-          `✨ ¡Comparte tu Boleto Digital y etiquétanos en Instagram! @safari.havana`,
+          `\u26A0 Conserve este mensaje para mostrarlo a la entrada.\n\n` +
+          `💬 Ante cualquier necesidad contacte a nuestro comercial.\n*Nacho* +53 56511592\n\n` +
+          `¡Comparte tu boleto y etiquétanos!\n\n` +
+          `\u2764 *Instagram* @safari.havana\n` +
+          `https://www.instagram.com/safari.havana?igsh=MTlkYTNiaXN4dDdvZg%3D%3D&utm_source=qr`,
         {
           media: `http://localhost:3050/public/images/${photoPath}`,
         }

@@ -8,6 +8,8 @@ const { config } = require("../config/config");
 
 const pathUsers = "./model/Users.json";
 const pathEvents = "../safari-bot/model/Events.json";
+const fontPath = "./fonts/AvenirNext.ttf";
+registerFont(fontPath, { family: "Avenir Next" });
 
 async function saveReservation(state) {
   let myState = state.getMyState();
@@ -152,12 +154,12 @@ async function saveInvitation(idEvent, text) {
   const canvas = createCanvas(image.width, image.height);
   const context = canvas.getContext("2d"); // Dibuja la imagen en el canvas
   context.drawImage(image, 0, 0, image.width, image.height); // Configura las propiedades del texto
-  context.font = "50px sans-serif"; // Cambia el tamaño y la fuente según tus necesidades
-  context.fillStyle = "#000000"; // Color del texto
+  context.font = "50px 'Avenir Next'"; // Cambia el tamaño y la fuente según tus necesidades
+  context.fillStyle = "#f9327a00"; // Color del texto
   const textMetrics = context.measureText(text.split(" ")[0]);
   const textWidth = textMetrics.width;
-  const xPosition = (image.width - textWidth) / 2; // Dibuja el texto en el canvas
-  context.fillText(text.split(" ")[0], xPosition, image.height - 480); // Guarda la imagen en el sistema de archivos
+  const xPosition = (image.width - textWidth) / 2 - 75; // Dibuja el texto en el canvas
+  context.fillText(text.split(" ")[0], xPosition, image.height - 220); // Guarda la imagen en el sistema de archivos
   const outputPath = path.join(
     __dirname,
     "../../safari-bot/images",
