@@ -8,8 +8,12 @@ const { config } = require("../config/config");
 
 const pathUsers = "./model/Users.json";
 const pathEvents = "../safari-bot/model/Events.json";
-const fontPath = "./fonts/AvenirNext.ttf";
-registerFont(fontPath, { family: "Avenir Next" });
+const fontPath = "./fonts/AvenirNext.ttc";
+registerFont(fontPath, {
+  family: "Avenir Next",
+  weight: "regular",
+  style: "normal",
+});
 
 async function saveReservation(state) {
   let myState = state.getMyState();
