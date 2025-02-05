@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '017E6EB3988CDC9D6B49B9CAF89ED563',
+    id: '822A5462F53B6E7D4A605B911A864E4A',
     participant: undefined
   },
-  messageTimestamp: 1738700332,
+  messageTimestamp: 1738782976,
   pushName: 'HH',
   broadcast: false,
   message: Message {
@@ -20,8 +20,8 @@
   from: '5350942618'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f8c48070-c599-4013-921d-7105975f346a',
-  keyword: 'key_5100eb84-f47c-4ee7-8ddc-c45b73f8a968',
+  ref: 'ans_1f0b3e2b-42e3-4598-bac1-d30b9d5fd0f7',
+  keyword: 'key_b5ef6797-7250-4522-b1cf-3724bd0b3fe9',
   answer: '__call_action__',
   options: {
     media: null,
@@ -35,11 +35,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '49fc4b2937b59cd6d4815cd28d879c28'
+  refSerialize: '46b601374401d1c943c41e8a843e89a2'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec',
-  keyword: 'ans_f8c48070-c599-4013-921d-7105975f346a',
+  ref: 'ans_2e5ec04c-a905-4bd2-bdac-70aaa0d3f9dd',
+  keyword: 'ans_1f0b3e2b-42e3-4598-bac1-d30b9d5fd0f7',
   answer: '¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\n' +
     'Solo escribe el número de la opción que desees:\n' +
     '\n' +
@@ -61,231 +61,17 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'ddbd9ef47adc358fab4487b024a77f7d'
+  refSerialize: '7b345424b8e0ff7ca6dffee27d0d5ebf'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: 'EC022BA9450F0462D36CCB8FE6610F52',
+    id: 'BF98C8B6BB09F0C104C5B73719053935',
     participant: undefined
   },
-  messageTimestamp: 1738700399,
+  messageTimestamp: 1738782980,
   pushName: 'HH',
-  broadcast: false,
-  message: Message {
-    conversation: '1',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '1',
-  from: '5350942618'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5350942618@s.whatsapp.net',
-    fromMe: false,
-    id: 'E43A991876F520A158E59680B788D604',
-    participant: undefined
-  },
-  messageTimestamp: 1738700404,
-  pushName: 'HH',
-  broadcast: false,
-  message: Message {
-    conversation: 'No',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'No',
-  from: '5350942618'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5358056309@s.whatsapp.net',
-    fromMe: false,
-    id: '3ACAF8C0AB3A076A379E',
-    participant: undefined
-  },
-  messageTimestamp: 1738764943,
-  pushName: 'Samu Martinez',
-  broadcast: false,
-  message: Message {
-    conversation: 'hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'hola',
-  from: '5358056309'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f8c48070-c599-4013-921d-7105975f346a',
-  keyword: 'key_5100eb84-f47c-4ee7-8ddc-c45b73f8a968',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '49fc4b2937b59cd6d4815cd28d879c28'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec',
-  keyword: 'ans_f8c48070-c599-4013-921d-7105975f346a',
-  answer: '¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\n' +
-    'Solo escribe el número de la opción que desees:\n' +
-    '\n' +
-    '1 Consultar eventos 📆\n' +
-    '\n' +
-    '2 Reservar 🎟\n' +
-    '\n' +
-    '3 Hablar con un humano 🧑\n' +
-    '\n',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: 1800000,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'ddbd9ef47adc358fab4487b024a77f7d'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5358056309@s.whatsapp.net',
-    fromMe: false,
-    id: '3A4D534EAE8377A41B4D',
-    participant: undefined
-  },
-  messageTimestamp: 1738764948,
-  pushName: 'Samu Martinez',
-  broadcast: false,
-  message: Message {
-    conversation: '1',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '1',
-  from: '5358056309'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5358056309@s.whatsapp.net',
-    fromMe: false,
-    id: '3A8E5416DDE8153485A5',
-    participant: undefined
-  },
-  messageTimestamp: 1738764954,
-  pushName: 'Samu Martinez',
-  broadcast: false,
-  message: Message {
-    conversation: '7',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '7',
-  from: '5358056309'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5358056309@s.whatsapp.net',
-    fromMe: false,
-    id: '3A325C6AE108EDDC30CC',
-    participant: undefined
-  },
-  messageTimestamp: 1738764965,
-  pushName: 'Samu Martinez',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Hola',
-  from: '5358056309'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f8c48070-c599-4013-921d-7105975f346a',
-  keyword: 'key_5100eb84-f47c-4ee7-8ddc-c45b73f8a968',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '49fc4b2937b59cd6d4815cd28d879c28'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec',
-  keyword: 'ans_f8c48070-c599-4013-921d-7105975f346a',
-  answer: '¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\n' +
-    'Solo escribe el número de la opción que desees:\n' +
-    '\n' +
-    '1 Consultar eventos 📆\n' +
-    '\n' +
-    '2 Reservar 🎟\n' +
-    '\n' +
-    '3 Hablar con un humano 🧑\n' +
-    '\n',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: 1800000,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'ddbd9ef47adc358fab4487b024a77f7d'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5358056309@s.whatsapp.net',
-    fromMe: false,
-    id: '3A1D1AB1933CBAA61997',
-    participant: undefined
-  },
-  messageTimestamp: 1738764971,
-  pushName: 'Samu Martinez',
   broadcast: false,
   message: Message {
     conversation: '2',
@@ -296,17 +82,17 @@
     }
   },
   body: '2',
-  from: '5358056309'
+  from: '5350942618'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5358056309@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3A380574D1801A366337',
+    id: '17EA8B87D7729A0F83D0D32D513C6BF6',
     participant: undefined
   },
-  messageTimestamp: 1738764974,
-  pushName: 'Samu Martinez',
+  messageTimestamp: 1738782984,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
     conversation: '7',
@@ -317,38 +103,38 @@
     }
   },
   body: '7',
-  from: '5358056309'
+  from: '5350942618'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5358056309@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3ACF5C86AEB81E90D861',
+    id: '928A6C43CC5F4558E86CABF5EC2603AA',
     participant: undefined
   },
-  messageTimestamp: 1738765004,
-  pushName: 'Samu Martinez',
+  messageTimestamp: 1738783000,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
-    conversation: 'Samuel Arencibia Martínez 01121968629\nAixa Quijano Rodríguez 01121396829',
+    conversation: 'Carlos Mario Chang Jardínez 02021979327',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Samuel Arencibia Martínez 01121968629\nAixa Quijano Rodríguez 01121396829',
-  from: '5358056309'
+  body: 'Carlos Mario Chang Jardínez 02021979327',
+  from: '5350942618'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5358056309@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3ADDE158DB346A697DBD',
+    id: 'E15CC7A4EE61B85A0B08F8405E5B9719',
     participant: undefined
   },
-  messageTimestamp: 1738765008,
-  pushName: 'Samu Martinez',
+  messageTimestamp: 1738783002,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
     conversation: 'No',
@@ -359,17 +145,17 @@
     }
   },
   body: 'No',
-  from: '5358056309'
+  from: '5350942618'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5358056309@s.whatsapp.net',
+    remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '3ACE9C55D71C46EC7CA6',
+    id: 'CB9D3AFD556BD94239B8265B0C624E5E',
     participant: undefined
   },
-  messageTimestamp: 1738765039,
-  pushName: 'Samu Martinez',
+  messageTimestamp: 1738783070,
+  pushName: 'HH',
   broadcast: false,
   message: Message {
     conversation: 'Si',
@@ -380,5 +166,5 @@
     }
   },
   body: 'Si',
-  from: '5358056309'
+  from: '5350942618'
 }

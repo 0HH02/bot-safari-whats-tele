@@ -167,6 +167,19 @@
             }
           ],
           "promotorCode": ""
+        },
+        {
+          "CI": "02021979327",
+          "Nombre": "Carlos Mario",
+          "Apellido_1": "Chang",
+          "Apellido_2": "Jardínez",
+          "ID_Evento": "7",
+          "confirmado": false,
+          "reservationId": 5,
+          "chat_id": "",
+          "table": false,
+          "partners": [],
+          "promotorCode": ""
         }
       ]
     }
