@@ -172,6 +172,8 @@ def procesar_foto(message, nombre_evento, bot):
         # guardar foto y actualizar el diccionario eventos con el url
         eventos[nombre_evento]["photo"] = ""
         save_image(message, nombre_evento, bot)
+        bot.send_message(message.chat.id, "Envía el flayer del evento")
+        bot.register_next_step_handler(message, procesar_flayer, nombre_evento, bot)
     elif message.text.lower() == "no":
         eventos[nombre_evento]["photo"] = "images/standar_invitation.jpg"
         bot.send_message(message.chat.id, "Envía el flayer del evento")
