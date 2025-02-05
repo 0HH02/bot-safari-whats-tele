@@ -1,6 +1,6 @@
 const { writeFile, readFile } = require("node:fs/promises");
 const { eventNames } = require("node:process");
-const { createCanvas, loadImage } = require("canvas");
+const { createCanvas, loadImage, registerFont } = require("canvas");
 const fs = require("fs");
 const path = require("path");
 const { stat } = require("node:fs");
