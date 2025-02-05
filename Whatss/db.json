@@ -1,15 +1,15 @@
 [
   {
-    "ref": "eea64d75-4170-440c-badd-3fc53a994713",
-    "keyword": "611b2bffc5c8bf7a02f45d2060b32e20",
+    "ref": "d8ea6104-159a-46a4-abc2-e4b85d9dbbbc",
+    "keyword": "8e18a7e92a2a646d2d79e385a3a290d6",
     "answer": "Hi",
     "options": {},
     "from": "5350942618",
     "refSerialize": "c5d6aa365d51e0d9c6f2eac3de980df6"
   },
   {
-    "ref": "ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a",
-    "keyword": "key_537a061d-eb8f-470c-bcb0-a56f86eb041e",
+    "ref": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "keyword": "key_5100eb84-f47c-4ee7-8ddc-c45b73f8a968",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -23,12 +23,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "2c8df4a56c0051420ad9f4ae3b3a56c5",
+    "refSerialize": "49fc4b2937b59cd6d4815cd28d879c28",
     "from": "5350942618"
   },
   {
-    "ref": "ans_fedb05cd-0751-432c-b76c-75a2df42247f",
-    "keyword": "ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a",
+    "ref": "ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec",
+    "keyword": "ans_f8c48070-c599-4013-921d-7105975f346a",
     "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
     "options": {
       "media": null,
@@ -42,12 +42,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "452a79399f89a396cd4e8abdfdd8b0e2",
+    "refSerialize": "ddbd9ef47adc358fab4487b024a77f7d",
     "from": "5350942618"
   },
   {
-    "ref": "ans_fedb05cd-0751-432c-b76c-75a2df42247f",
-    "keyword": "ans_8e4103b2-dd00-4852-87bf-dece8dc4e20a",
+    "ref": "ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec",
+    "keyword": "ans_f8c48070-c599-4013-921d-7105975f346a",
     "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
     "options": {
       "media": null,
@@ -61,20 +61,354 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "452a79399f89a396cd4e8abdfdd8b0e2",
+    "refSerialize": "ddbd9ef47adc358fab4487b024a77f7d",
     "from": "5350942618"
   },
   {
-    "ref": "9b46b8aa-1b5e-4fee-babb-f4ff4e7e3902",
-    "keyword": "452a79399f89a396cd4e8abdfdd8b0e2",
-    "answer": "2",
+    "ref": "8a614324-6107-4b1b-955d-eb5fd0666944",
+    "keyword": "ddbd9ef47adc358fab4487b024a77f7d",
+    "answer": "1",
     "options": {},
     "from": "5350942618",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_1a105edb-f67d-4c6f-9898-e6f5fa1d8936",
+    "keyword": "key_198d36fd-defc-4cd0-9f56-4cefa6dd60a9",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bd77e0ebb3114a5702b97b6107d15650",
+    "from": "5350942618"
+  },
+  {
+    "ref": "ans_311010ca-944c-4eec-8a67-c953932bd345",
+    "keyword": "ans_1a105edb-f67d-4c6f-9898-e6f5fa1d8936",
+    "answer": "Estos son nuestros próximos eventos:\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "379f07cd2edbe06365c1bce899829fc5",
+    "from": "5350942618"
+  },
+  {
+    "ref": "b5542e82-a02d-4e00-a9d0-829835158505",
+    "keyword": null,
+    "answer": "\n4     *Concierto de Jazz* \n*Fecha:* _15\\.12\\.2025_ \n*Lugar:* Teatro Nacional\n",
+    "options": {
+      "media": "http://localhost:3050/public/images/file_11.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "07164a664f24f7b463b67cc30141def7"
+  },
+  {
+    "ref": "fd0ddbad-7bd1-4a35-8f7a-6afb46f68007",
+    "keyword": null,
+    "answer": "\n7     *Publicidad* \n*Fecha:* _10\\.02\\.2025_ \n*Lugar:* Mi casa\n",
+    "options": {
+      "media": "http://localhost:3050/public/images/file_2.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "e99443ea39cb3f1bd3829d01ea4f4961"
+  },
+  {
+    "ref": "362f7eab-ee27-4f67-822e-e4c573b4dc22",
+    "keyword": null,
+    "answer": "¿Desea reservar para alguno de estos eventos? Si / No",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "34310ae943f3dfc1a1c3251bb6f82441"
+  },
+  {
+    "ref": "6397dbb4-b941-4ebd-8ce8-35d9b1850d84",
+    "keyword": "379f07cd2edbe06365c1bce899829fc5",
+    "answer": "No",
+    "options": {},
+    "from": "5350942618",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "dd7d6e38-e972-49d9-aebf-0290a83f3ca2",
+    "keyword": null,
+    "answer": "¡Manténgase al tanto de nuestros próximos eventos! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5350942618",
+    "refSerialize": "f2871aed8761d11f620212baa6a677c6"
+  },
+  {
+    "ref": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "keyword": "key_5100eb84-f47c-4ee7-8ddc-c45b73f8a968",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "49fc4b2937b59cd6d4815cd28d879c28",
+    "from": "5358056309"
+  },
+  {
+    "ref": "ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec",
+    "keyword": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ddbd9ef47adc358fab4487b024a77f7d",
+    "from": "5358056309"
+  },
+  {
+    "ref": "ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec",
+    "keyword": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ddbd9ef47adc358fab4487b024a77f7d",
+    "from": "5358056309"
+  },
+  {
+    "ref": "da1f0828-acbc-48dc-8f77-78a5ec13da3c",
+    "keyword": "ddbd9ef47adc358fab4487b024a77f7d",
+    "answer": "1",
+    "options": {},
+    "from": "5358056309",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_1a105edb-f67d-4c6f-9898-e6f5fa1d8936",
+    "keyword": "key_198d36fd-defc-4cd0-9f56-4cefa6dd60a9",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bd77e0ebb3114a5702b97b6107d15650",
+    "from": "5358056309"
+  },
+  {
+    "ref": "ans_311010ca-944c-4eec-8a67-c953932bd345",
+    "keyword": "ans_1a105edb-f67d-4c6f-9898-e6f5fa1d8936",
+    "answer": "Estos son nuestros próximos eventos:\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "379f07cd2edbe06365c1bce899829fc5",
+    "from": "5358056309"
+  },
+  {
+    "ref": "8c530d45-6a40-4e12-b47d-a907de3d5cc6",
+    "keyword": null,
+    "answer": "\n4     *Concierto de Jazz* \n*Fecha:* _15\\.12\\.2025_ \n*Lugar:* Teatro Nacional\n",
+    "options": {
+      "media": "http://localhost:3050/public/images/file_11.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5358056309",
+    "refSerialize": "07164a664f24f7b463b67cc30141def7"
+  },
+  {
+    "ref": "02738ed9-18f4-49f9-8049-63ecf460aecb",
+    "keyword": null,
+    "answer": "\n7     *Publicidad* \n*Fecha:* _10\\.02\\.2025_ \n*Lugar:* Mi casa\n",
+    "options": {
+      "media": "http://localhost:3050/public/images/file_2.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5358056309",
+    "refSerialize": "e99443ea39cb3f1bd3829d01ea4f4961"
+  },
+  {
+    "ref": "b972930d-e58d-442c-af2a-fca63b951a77",
+    "keyword": null,
+    "answer": "¿Desea reservar para alguno de estos eventos? Si / No",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5358056309",
+    "refSerialize": "34310ae943f3dfc1a1c3251bb6f82441"
+  },
+  {
+    "ref": "4f10d570-0d77-4b26-8843-35d0b6f2486e",
+    "keyword": "379f07cd2edbe06365c1bce899829fc5",
+    "answer": "7",
+    "options": {},
+    "from": "5358056309",
+    "refSerialize": "fd578dcac4948926a5e7e63bfd1b1267"
+  },
+  {
+    "ref": "bcba5390-5655-4ca4-a71f-1e05718a5723",
+    "keyword": null,
+    "answer": "¡Manténgase al tanto de nuestros próximos eventos! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5358056309",
+    "refSerialize": "f2871aed8761d11f620212baa6a677c6"
+  },
+  {
+    "ref": "5b09b7c8-84eb-4b77-98b7-2ccf225341e4",
+    "keyword": "fd578dcac4948926a5e7e63bfd1b1267",
+    "answer": "Hola",
+    "options": {},
+    "from": "5358056309",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "keyword": "key_5100eb84-f47c-4ee7-8ddc-c45b73f8a968",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "49fc4b2937b59cd6d4815cd28d879c28",
+    "from": "5358056309"
+  },
+  {
+    "ref": "ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec",
+    "keyword": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ddbd9ef47adc358fab4487b024a77f7d",
+    "from": "5358056309"
+  },
+  {
+    "ref": "ans_f4446de3-b4cc-42cd-9012-3a40b9e234ec",
+    "keyword": "ans_f8c48070-c599-4013-921d-7105975f346a",
+    "answer": "¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\nSolo escribe el número de la opción que desees:\n\n1 Consultar eventos 📆\n\n2 Reservar 🎟\n\n3 Hablar con un humano 🧑\n\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": 1800000,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ddbd9ef47adc358fab4487b024a77f7d",
+    "from": "5358056309"
+  },
+  {
+    "ref": "b2cbf722-3f92-425a-8dd4-36050cfc0f1e",
+    "keyword": "ddbd9ef47adc358fab4487b024a77f7d",
+    "answer": "2",
+    "options": {},
+    "from": "5358056309",
     "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
   },
   {
-    "ref": "ans_5de12f0b-0b7f-4384-85fc-afa6dc011ae7",
-    "keyword": "key_f909fcd6-ced2-4442-a35c-880f22f054d2",
+    "ref": "ans_38aaa4d8-59d8-49fa-a1a6-29e72aacff20",
+    "keyword": "key_344c01ec-9999-4407-824b-b06052cfd6b5",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -88,12 +422,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "c7bf209f89a8980a83a6373227249365",
-    "from": "5350942618"
+    "refSerialize": "8e59e1ed7056ad2af503482893ff22ba",
+    "from": "5358056309"
   },
   {
-    "ref": "ans_57442fa5-67b9-4385-9b44-ba60f68bd86e",
-    "keyword": "ans_5de12f0b-0b7f-4384-85fc-afa6dc011ae7",
+    "ref": "ans_427b2f39-5f00-4e1f-bb29-ed5fda74f289",
+    "keyword": "ans_38aaa4d8-59d8-49fa-a1a6-29e72aacff20",
     "answer": "¿Cuál es el número del evento deseado:\n(Ej: 101, 102, etc.)",
     "options": {
       "media": null,
@@ -107,33 +441,33 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "a4e05703c683147d332d0b17bdb7e670",
-    "from": "5350942618"
+    "refSerialize": "b2af1efde1bfdcc10ed95e1af191249a",
+    "from": "5358056309"
   },
   {
-    "ref": "193a80fc-1e13-4cb2-b14e-9a1b61651580",
+    "ref": "4a93f006-23de-4596-8bdd-0f07ffcd2e8f",
     "keyword": null,
-    "answer": "\n1     *Legado* \n*Fecha:* 01-12-2025 \n*Lugar:* Habana Libre\n\n2     *Noche de Salsa* \n*Fecha:* 05-12-2025 \n*Lugar:* Salón Rosado de La Tropical\n\n3     *Fiesta Electronica* \n*Fecha:* 10-12-2025 \n*Lugar:* Club 1830\n\n4     *Concierto de Jazz* \n*Fecha:* 15-12-2025 \n*Lugar:* Teatro Nacional\n\n7     *Publicidad* \n*Fecha:* 10-02-2025 \n*Lugar:* Mi casa\n",
+    "answer": "\n4     *Concierto de Jazz* \n*Fecha:* 15-12-2025 \n*Lugar:* Teatro Nacional\n\n7     *Publicidad* \n*Fecha:* 10-02-2025 \n*Lugar:* Mi casa\n",
     "options": {
       "media": null,
       "buttons": [],
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
-    "refSerialize": "000a88ffd0fe25695dd69cd762e759e0"
+    "from": "5358056309",
+    "refSerialize": "fa67d780e0be493b936625963cca8b06"
   },
   {
-    "ref": "783db870-091f-40b7-8af4-2a5f7cc93a5b",
-    "keyword": "a4e05703c683147d332d0b17bdb7e670",
+    "ref": "444bb0fc-412d-49a9-8f59-37b126598bb6",
+    "keyword": "b2af1efde1bfdcc10ed95e1af191249a",
     "answer": "7",
     "options": {},
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "fd578dcac4948926a5e7e63bfd1b1267"
   },
   {
-    "ref": "ans_863b7b28-7ab2-4d3e-86b9-f8751d7bbe5d",
-    "keyword": "key_983d3c2c-ed81-4e9a-bc19-b7453f40e2d9",
+    "ref": "ans_d6c3f57b-1dd5-48a0-8446-4f98d43d4459",
+    "keyword": "key_9aaaff4a-0e94-4c27-beb0-91d43929cd61",
     "answer": "Escriba en un único mensaje su *Nombre, Apellidos* y *Número de carnet*.\nAgregue en el mismo mensaje los datos de sus acompañantes. Una persona en cada línea\n",
     "options": {
       "media": null,
@@ -147,12 +481,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "bfae454e7ed587be3548b2fc718a2fcb",
-    "from": "5350942618"
+    "refSerialize": "6d0a79c1a160bd71ad0994a729dc0f1b",
+    "from": "5358056309"
   },
   {
-    "ref": "ans_9a838501-c514-4d89-86b7-29ddddd98a0c",
-    "keyword": "ans_863b7b28-7ab2-4d3e-86b9-f8751d7bbe5d",
+    "ref": "ans_9a6d69b1-6da5-4a02-a1d4-bd353a7524e3",
+    "keyword": "ans_d6c3f57b-1dd5-48a0-8446-4f98d43d4459",
     "answer": "*Ejemplo de mensaje* \nMagy Pérez Pérez 02092345677\nAlis Pérez López 02092345687\nSamuel Pérez López 02092345697",
     "options": {
       "media": null,
@@ -166,20 +500,20 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "4f1f39e334b8f430202e84fbf0da3bb5",
-    "from": "5350942618"
+    "refSerialize": "e57c96232dcfa7faa1b05745ba59ece5",
+    "from": "5358056309"
   },
   {
-    "ref": "d2624c1e-9bb2-4686-9391-6afc5fddc75b",
-    "keyword": "4f1f39e334b8f430202e84fbf0da3bb5",
-    "answer": "Carlos Mario Chang Jardínez 02021979327",
+    "ref": "7a821a9f-e310-4db6-bc0d-74da3a8f61d3",
+    "keyword": "e57c96232dcfa7faa1b05745ba59ece5",
+    "answer": "Samuel Arencibia Martínez 01121968629\nAixa Quijano Rodríguez 01121396829",
     "options": {},
-    "from": "5350942618",
-    "refSerialize": "4de4460091823347abec9827a847b111"
+    "from": "5358056309",
+    "refSerialize": "cfa0be256db6bcd41796872856340557"
   },
   {
-    "ref": "ans_6c061a1c-4503-4fda-916f-6e3268e3a3f6",
-    "keyword": "key_fc2424da-a882-4aff-968d-cab6b9bd744a",
+    "ref": "ans_922c440e-704f-48df-be4c-b6d0d66528f2",
+    "keyword": "key_e8b58d82-bf0d-428c-be4d-7959fbc171f5",
     "answer": "¿Desea una mesa? Si / No",
     "options": {
       "media": null,
@@ -193,20 +527,20 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "e31f9bc5000205ca84ef0f0c1e33124a",
-    "from": "5350942618"
+    "refSerialize": "e482c2634aeb3903a7f92dec74054ce2",
+    "from": "5358056309"
   },
   {
-    "ref": "116ce620-951f-442b-b108-96596fe6081a",
-    "keyword": "e31f9bc5000205ca84ef0f0c1e33124a",
+    "ref": "55e756c9-5cef-4c37-9324-644e0769f26c",
+    "keyword": "e482c2634aeb3903a7f92dec74054ce2",
     "answer": "No",
     "options": {},
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
   },
   {
-    "ref": "ans_2857083a-77b6-4ec6-9f8e-e1e5260a0d1f",
-    "keyword": "key_3f064699-507c-43fc-9150-e065bc0b6979",
+    "ref": "ans_ef7284e4-0ffb-45f5-8aef-4ae3050db957",
+    "keyword": "key_b08842af-fbc9-4c91-9926-06329bd41168",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -220,11 +554,11 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "ef29bb2781e5bfe032721cdd138ca828",
-    "from": "5350942618"
+    "refSerialize": "e62582f90333a0433b2689c30e8f0697",
+    "from": "5358056309"
   },
   {
-    "ref": "77fa29e6-2769-4053-a3a8-7274204196ea",
+    "ref": "af5dc49d-a4a0-4f8f-b318-baf4de19c835",
     "keyword": null,
     "answer": "No te pierdas esta habitación",
     "options": {
@@ -233,12 +567,12 @@
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "5c04ae95ac11e6b2d2c0a94c083be5c5"
   },
   {
-    "ref": "ans_a9f5f3c1-e913-4411-a15a-88f00c2dab55",
-    "keyword": "key_ceff6f9a-c766-4dfe-b813-90e69eacbd26",
+    "ref": "ans_704683c3-2639-4b1f-991c-6f5dc791ae0b",
+    "keyword": "key_866035ca-f243-4efe-9f04-9d4a816823a7",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -252,12 +586,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "9a058bf558af101eca48255e5761a0e3",
-    "from": "5350942618"
+    "refSerialize": "ebd463d11af8aef2b5147c6a7653454c",
+    "from": "5358056309"
   },
   {
-    "ref": "ans_7a29b333-ca04-4e78-829d-bbb21c16e169",
-    "keyword": "ans_a9f5f3c1-e913-4411-a15a-88f00c2dab55",
+    "ref": "ans_a091ee7a-fa96-4a0e-8718-7b86ee7758bb",
+    "keyword": "ans_704683c3-2639-4b1f-991c-6f5dc791ae0b",
     "answer": "Estos son los datos de su reserva:",
     "options": {
       "media": null,
@@ -271,24 +605,24 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "779d253d1577750fe522027a7ee402ef",
-    "from": "5350942618"
+    "refSerialize": "0c35f07c61c6cbbfff8b64a717fd2b95",
+    "from": "5358056309"
   },
   {
-    "ref": "eaf89887-50e9-4e32-a059-9a443c89b738",
+    "ref": "ffadcf84-1bd6-4a56-b5d5-be7c98d22d92",
     "keyword": null,
-    "answer": "*Verifique sus datos por favor*\n\n*Evento:* Publicidad\n*Fecha:* 10.02.2025\n*Ubicación:* Mi casa\n*Mesa:* No\n\n*A nombre de: (Primera persona)*\nCarlos Mario Chang Jardínez 02021979327\n",
+    "answer": "*Verifique sus datos por favor*\n\n*Evento:* Publicidad\n*Fecha:* 10.02.2025\n*Ubicación:* Mi casa\n*Mesa:* No\n\n*A nombre de: (Primera persona)*\nSamuel Arencibia Martínez 01121968629\nAixa Quijano Rodríguez 01121396829\n",
     "options": {
       "media": null,
       "buttons": [],
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
-    "refSerialize": "c42297f3bd8de125835d3ab39c567451"
+    "from": "5358056309",
+    "refSerialize": "5bf9d606db56703c1dd84273faea1c77"
   },
   {
-    "ref": "f835d71e-86f1-4535-90b0-3ae37ee9a330",
+    "ref": "e5c503a1-485c-42ce-b0ca-18b94aa8443a",
     "keyword": null,
     "answer": "¿Desea confirmar su reserva? Si / No",
     "options": {
@@ -297,19 +631,19 @@
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "dfafaaa55749c56d9341d850de670135"
   },
   {
-    "ref": "ec171942-7e4f-4a98-b0af-1fddf48d0ff2",
-    "keyword": "779d253d1577750fe522027a7ee402ef",
+    "ref": "3a77d028-7f1e-417d-b4fc-2b53d054c6f8",
+    "keyword": "0c35f07c61c6cbbfff8b64a717fd2b95",
     "answer": "Si",
     "options": {},
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "611b2bffc5c8bf7a02f45d2060b32e20"
   },
   {
-    "ref": "496785c0-ab7c-40aa-a204-2c48fd005f44",
+    "ref": "92980644-b455-4300-a034-3d2a2bbfb16e",
     "keyword": null,
     "answer": "Listo! ✅",
     "options": {
@@ -318,11 +652,11 @@
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "35c35e8c53af562f69eeba32da562a1f"
   },
   {
-    "ref": "8a2047d6-be5b-4895-809b-84998f56536f",
+    "ref": "63a896a9-1249-481c-97d1-0dc69a2bd56c",
     "keyword": null,
     "answer": "Enseguida le mandamos su invitación",
     "options": {
@@ -331,12 +665,12 @@
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
+    "from": "5358056309",
     "refSerialize": "64f6afffa17e515940c7043b9bbd3723"
   },
   {
-    "ref": "ans_606dac81-3c22-491c-8362-4f69284f9680",
-    "keyword": "key_4f4de645-89e5-4208-956b-dd51a2f80b44",
+    "ref": "ans_1d4272b6-654a-498f-b0e2-296e721d18ea",
+    "keyword": "key_60566d71-2735-4d1f-8af6-b5c42c538f4f",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -350,20 +684,33 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "5af61eeb3d7cdbdd2cc2272ed88d88d7",
-    "from": "5350942618"
+    "refSerialize": "158610de2854e0060e0fa01fc22b29b6",
+    "from": "5358056309"
   },
   {
-    "ref": "b5523944-f97b-439e-993b-1dbf16454815",
+    "ref": "3e9565fe-ddb6-4f79-8170-203fc3ffd239",
     "keyword": null,
-    "answer": "Su reserva ha sido registrada con éxito.\nNúmero de reserva: 53\n\nConserve este mensaje para mostrarlo a la entrada\nAnte cualquier necesidad, contacte a nuestro comercial:\n☎ 55395060\n\n✨ ¡Comparte tu Boleto Digital y etiquétanos en Instagram! @safari.havana",
+    "answer": "Su reserva ha sido registrada con éxito.\nNúmero de reserva: 54\n\nConserve este mensaje para mostrarlo a la entrada\nAnte cualquier necesidad, contacte a nuestro comercial:\n☎ 55395060\n\n✨ ¡Comparte tu Boleto Digital y etiquétanos en Instagram! @safari.havana",
     "options": {
       "media": "http://localhost:3050/public/images/invitation_7.png",
       "buttons": [],
       "capture": false,
       "delay": 0
     },
-    "from": "5350942618",
-    "refSerialize": "beffef5b2cec659788793082ac993a58"
+    "from": "5358056309",
+    "refSerialize": "08d70e2cf1cc1b2989f428dfdb69504b"
+  },
+  {
+    "ref": "4429bb02-9a97-4b66-8d0c-e34110d3b52b",
+    "keyword": null,
+    "answer": "Su reserva ha sido registrada con éxito.\nNúmero de reserva: 55\n\nConserve este mensaje para mostrarlo a la entrada\nAnte cualquier necesidad, contacte a nuestro comercial:\n☎ 55395060\n\n✨ ¡Comparte tu Boleto Digital y etiquétanos en Instagram! @safari.havana",
+    "options": {
+      "media": "http://localhost:3050/public/images/invitation_7.png",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5358056309",
+    "refSerialize": "3b8f9452a479e2ea1d93829b48a7d239"
   }
 ]
