@@ -2,26 +2,26 @@
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '822A5462F53B6E7D4A605B911A864E4A',
+    id: 'BE3F6C039DEE809ED268A4DDFBDDA216',
     participant: undefined
   },
-  messageTimestamp: 1738782976,
+  messageTimestamp: 1738821520,
   pushName: 'HH',
   broadcast: false,
   message: Message {
-    conversation: 'Hi',
+    conversation: '2',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Hi',
+  body: '2',
   from: '5350942618'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1f0b3e2b-42e3-4598-bac1-d30b9d5fd0f7',
-  keyword: 'key_b5ef6797-7250-4522-b1cf-3724bd0b3fe9',
+  ref: 'ans_6616cb68-c54e-4739-a7c0-45f78b31ccab',
+  keyword: 'key_a8fe83ce-8b20-4300-be74-c9b7be2f72bc',
   answer: '__call_action__',
   options: {
     media: null,
@@ -35,11 +35,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '46b601374401d1c943c41e8a843e89a2'
+  refSerialize: '9f1a7642c2e2031956c761003b08fa63'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_2e5ec04c-a905-4bd2-bdac-70aaa0d3f9dd',
-  keyword: 'ans_1f0b3e2b-42e3-4598-bac1-d30b9d5fd0f7',
+  ref: 'ans_68e4d074-be98-4ab9-994e-488a68f31466',
+  keyword: 'ans_6616cb68-c54e-4739-a7c0-45f78b31ccab',
   answer: '¡Hola! Soy *Piñito* 🍍 reserva conmigo entradas y mesas para Safari 🌴.\n' +
     'Solo escribe el número de la opción que desees:\n' +
     '\n' +
@@ -61,16 +61,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '7b345424b8e0ff7ca6dffee27d0d5ebf'
+  refSerialize: 'b824e28af59fe0899e067bba2366e448'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: 'BF98C8B6BB09F0C104C5B73719053935',
+    id: '2B2A7284729C413859BE9217286BCAA6',
     participant: undefined
   },
-  messageTimestamp: 1738782980,
+  messageTimestamp: 1738821522,
   pushName: 'HH',
   broadcast: false,
   message: Message {
@@ -88,10 +88,10 @@
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '17EA8B87D7729A0F83D0D32D513C6BF6',
+    id: '409883D582312E444E4CBC1D4C8A9F7E',
     participant: undefined
   },
-  messageTimestamp: 1738782984,
+  messageTimestamp: 1738821525,
   pushName: 'HH',
   broadcast: false,
   message: Message {
@@ -109,10 +109,10 @@
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: '928A6C43CC5F4558E86CABF5EC2603AA',
+    id: '55CE33A1455BFD861F181DDF99F2DE7C',
     participant: undefined
   },
-  messageTimestamp: 1738783000,
+  messageTimestamp: 1738821533,
   pushName: 'HH',
   broadcast: false,
   message: Message {
@@ -130,10 +130,10 @@
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: 'E15CC7A4EE61B85A0B08F8405E5B9719',
+    id: '3E30574A13111463A4C730CDDC5ADB90',
     participant: undefined
   },
-  messageTimestamp: 1738783002,
+  messageTimestamp: 1738821560,
   pushName: 'HH',
   broadcast: false,
   message: Message {
@@ -151,10 +151,10 @@
   key: {
     remoteJid: '5350942618@s.whatsapp.net',
     fromMe: false,
-    id: 'CB9D3AFD556BD94239B8265B0C624E5E',
+    id: 'DD06C63332867403E76A073EB80627EA',
     participant: undefined
   },
-  messageTimestamp: 1738783070,
+  messageTimestamp: 1738821563,
   pushName: 'HH',
   broadcast: false,
   message: Message {

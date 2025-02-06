@@ -250,7 +250,7 @@ const confirmarFlow = addKeyword(EVENTS.ACTION)
 
 const sendInvitationFlow = addKeyword(EVENTS.ACTION).addAction(
   async (ctx, { state, flowDynamic }) => {
-    try {
+    
       const data = state.getMyState();
       const photoPath = await saveInvitation(
         state.get("idEvento"),
@@ -261,8 +261,7 @@ const sendInvitationFlow = addKeyword(EVENTS.ACTION).addAction(
           `🎟️ *Número:* ${
             (await getEvent(data.idEvento)).reservations.length +
             50 -
-            state.get("partners").length +
-            index
+            state.get("partners").length
           }\n\n` +
           `\u26A0 Conserve este mensaje para mostrarlo a la entrada.\n\n` +
           `💬 Ante cualquier necesidad contacte a nuestro comercial.\n*Nacho* +53 56511592\n\n` +
@@ -307,9 +306,6 @@ const sendInvitationFlow = addKeyword(EVENTS.ACTION).addAction(
           index += 1;
         }
       })();
-    } catch (error) {
-      console.error("Error al guardar la invitación:", error);
-    }
   }
 );
 
